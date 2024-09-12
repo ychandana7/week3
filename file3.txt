@@ -1,0 +1,2 @@
+hello world, welcome to linux commands
+hello chandu,how are you?
